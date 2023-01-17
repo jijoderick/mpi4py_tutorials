@@ -1,3 +1,4 @@
+#the code for the point point communication
 from mpi4py import MPI
 import numpy
 comm=MPI.COMM_WORLD
